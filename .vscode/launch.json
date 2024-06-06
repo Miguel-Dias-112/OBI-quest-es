@@ -4,7 +4,7 @@
         {
             "name": "(gdb) Launch",
             "type": "cppdbg",
-            "request": "launch /a.out",
+            "request": "launch ./a.out",
             "program": "enter program name, for example ${workspaceFolder}/a.out",
             "args": [],
             "stopAtEntry": false,
